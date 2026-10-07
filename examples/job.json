@@ -1,0 +1,10 @@
+{
+  "event_name": "Python Backend Workshop",
+  "issuer": "Example Academy",
+  "issue_date": "2026-10-07",
+  "recipients": [
+    {"name": "Abhinav Jain", "email": "abhinav@example.com"},
+    {"name": "Grace Hopper", "email": "grace@example.com"},
+    {"name": "Invalid recipient", "email": "not-an-email"}
+  ]
+}

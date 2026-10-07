@@ -1,0 +1,5 @@
+fastapi>=0.115,<1
+SQLAlchemy>=2.0,<3
+reportlab>=4.2,<5
+pydantic[email]>=2.9,<3
+uvicorn>=0.30,<1
